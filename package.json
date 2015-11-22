@@ -3,6 +3,7 @@
   "version": "0.0.1",
   "description": "lapixx.com",
   "main": "server.js",
+  "private": true,
   "dependencies": {
     "serve-static": "^1.7.2",
     "connect": "^3.3.5"
